@@ -14,7 +14,7 @@ tags:
 - name: Ubag Account Test
   description: Ubag Account Test Controller
 paths:
-  /accounts/{accountId}/retrieve:
+  /accounts/{accountId}/retrieves:
     get:
       tags:
       - Ubag Account Test
